@@ -1,0 +1,25 @@
+Aussie Army model for Half-Life
+
+Author:       	Spagnamoli - editing of existing HL-TFC Sniper and TFC Soldier
+
+Model Name:   	Aussie Army	
+Version:       	1.b
+Relaese Date:  	02/07/99
+Total Size:  	320kB
+Polygons:     	??? same as TFC Sniper..
+Vertices:     	Ditto
+Texture Size:  	Dunno, dont care
+Team Colors:   	No, unlike some countries we've never had a civil war :)
+Animations:   	Standard DM/TFC Player Animations
+Build Time:    	PhotoShop 4, only about 2 hours or so all up, man time flies.
+		Man a Wacom Tablet makes it easier, thats for sure :)
+
+
+Installation:
+Put all files (aussie.mdl aussie.bmp) in half-life\valve\models\player\aussie
+
+
+spagnamoli@start.com.au
+
+can Valve sue me for this? ;)
+
