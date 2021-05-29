@@ -1,0 +1,46 @@
+April 17th 2001
+================================================================
+Model Name              : Dalek_Black
+
+installation directory  : SIERRA\Half-Life\valve\models\Player\Dalek_Black
+			
+Author                  : Hamsterizer
+
+Email Address           : hamsterizer@ntlworld.com
+
+Model description       : This model is of the deadly Dalek race from the popular British cult 				  Sci-fi show Doctor Who. This model work really well when applied to bot 			  skins. The Dalek is ideally suited to any deathmatch  environment, as 			  Daleks are quite happy to invade any unconquered planet! Watch in 				  amazement as they travel up and down stairs! Now you too can scream 				  'Exterminate! Exterminate!' at your monitor!!
+
+
+Other info              : This is my second Half-Life model and my first to include animations. I 			  was toying with idea of using them in a mod, but I don't really have 			  	  the time. If anyone would like to use them in a mod or whatever, feel 			  free! Do write and let me know as I would love to see any use they get 			  put to. Your feedback is appreciated. Write and let me know what you 			  	  think!
+
+Additional Credits to   : Valve for a damn cool game. Terry Nation and the BBC for making the 				  Daleks in the first place.
+
+Thanks to               : Mungler for help playtesting.
+================================================================
+* Play Information *
+
+New Sounds              : NO
+CTF Skins               : NO
+VWEP Support            : ?
+
+
+* Construction *
+Poly Count              : can't remember
+Vert Count              : and I've deleted Milkshape
+Skin Count              : and the model viewer
+Base                    : New Model
+Editor used             : Milkshape 3D
+Known Bugs              : None known
+Build/Animation time    : Quite a while on and off. I finished them ages ago.
+
+
+* How to use this model *
+
+<INSTALLATION INFO>
+It's a zip file so just unzip it using the folder names! Then look in your Multiplayer setup and pick the model (ignore some of the strange colours in the model pics). If you get lost this is were the model goes:
+installation directory  : SIERRA\Half-Life\valve\models\Player\Dalek_Black\Dalek_Black.BMP
+										Dalek_Black.MDL
+* Copyright / Permissions *
+
+Valve and BBC and Terry Nation
+Please credit me if you use the models for anything else.

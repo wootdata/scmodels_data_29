@@ -1,0 +1,21 @@
+Boy Soldier by The Exorcist
+==================================
+Installation : Unzip the contents of this file into your HalfLife/Valve/Models/Player folder. Then simply select the skin from the Multiplayer Customisation option within the game.
+================================================================================
+Skin Name   : Boy Soldier
+Folder           : /Player
+Model           : Scientist
+Base Skin    : Baby Ninja
+Author           : D*H*D The Exorcist (Bryan O'Hara)
+E-Mail           : bryan.ohara@ic24.net
+Clan Website : http://www.footlose.demon.co.uk
+Editors used   : Corel Photopaint 8 - Mdlview 2.1                                     
+
+==============================================
+Notes            : Credit goes to who ever made the babyninja
+                        model. Sorry I dont know who u are but no 
+                        readme was with yr model!!!
+==============================================
+
+Skin by Bryan O'Hara
+***NB*** 	If this skin is to be used on a CD or other form of Multimedia Distribution then any credit given goes to Bryan O'Hara. Also, please ask before including it on any such distributive method - bryan.ohara@ic24.net.  Also, THIS FILE MUST BE INCLUDED!!
