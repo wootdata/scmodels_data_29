@@ -1,1 +1,268 @@
-{"seq_groups": 1, "hash": "08059f252f3b8d2c2741fc0781f7ce39", "tri_count": "665"}
+{
+	"attachments": [
+		{
+			"bone": 30,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 19,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "intro_torch",
+					"polys": 665,
+					"verts": 403
+				}
+			],
+			"name": "body"
+		}
+	],
+	"controllers": [
+		{
+			"bone": 20,
+			"end": 45.000000,
+			"index": 4,
+			"rest": 0,
+			"start": 0.000000,
+			"type": 32
+		}, 
+		{
+			"bone": 19,
+			"end": 70.000000,
+			"index": 0,
+			"rest": 0,
+			"start": -70.000000,
+			"type": 8
+		}
+	],
+	"events": [
+		{
+			"event": 1000,
+			"frame": 1,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}, 
+		{
+			"event": 1001,
+			"frame": 1,
+			"options": "",
+			"sequence": 6,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "08059f252f3b8d2c2741fc0781f7ce39",
+	"name": "c:\\sierra\\half-life\\gearbox\\models\\intro_torch.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 15.000000,
+			"frames": 91,
+			"name": "sitting1"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 101,
+			"name": "sitting2"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 81,
+			"name": "sitting3"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 101,
+			"name": "sitting5"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 101,
+			"name": "sitting6"
+		}, 
+		{
+			"fps": 16.000000,
+			"frames": 101,
+			"name": "sitting7"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 181,
+			"name": "cower"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe01",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Toe02",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Toe01",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Toe02",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 18
+		}, 
+		{
+			"name": "Bone05",
+			"parent": 19
+		}, 
+		{
+			"name": "Bone06",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 29
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 63,
+			"name": "Desert_Eagle.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "engineer_fatigues.BMP",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 62,
+			"name": "boots.BMP",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 127,
+			"name": "engineer_torso.BMP",
+			"width": 192
+		}, 
+		{
+			"flags": 0,
+			"height": 122,
+			"name": "engineer_head.BMP",
+			"width": 144
+		}, 
+		{
+			"flags": 0,
+			"height": 126,
+			"name": "helmet.BMP",
+			"width": 64
+		}
+	],
+	"version": 10
+}

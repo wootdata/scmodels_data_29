@@ -1,1 +1,45 @@
-{"seq_groups": 1, "hash": "e8599cc7099457393030f633edc6b933", "tri_count": "12"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "lshrub_ref",
+					"polys": 12,
+					"verts": 12
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "e8599cc7099457393030f633edc6b933",
+	"name": "lshrub.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 20.000000,
+			"frames": 101,
+			"name": "idle"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "default",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "leaves9.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

@@ -1,1 +1,55 @@
-{"seq_groups": 1, "hash": "4b5fd5cff3dfbd567bd66035cba9610c", "tri_count": "32"}
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "grenade1_update",
+					"polys": 32,
+					"verts": 18
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"controllers": [],
+	"events": [],
+	"id": 1414743113,
+	"md5": "4b5fd5cff3dfbd567bd66035cba9610c",
+	"name": "valve/models/grenade.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "NGon01",
+			"parent": -1
+		}, 
+		{
+			"name": "",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 59,
+			"name": "Side1.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 31,
+			"name": "Tip1.bmp",
+			"width": 36
+		}
+	],
+	"version": 10
+}

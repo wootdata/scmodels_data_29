@@ -1,1 +1,1679 @@
-{"seq_groups": 1, "hash": "e37784d7acde9534ece90991d226f04d", "tri_count": "1888"}
+{
+	"attachments": [
+		{
+			"bone": 24,
+			"name": "",
+			"type": 0
+		}, 
+		{
+			"bone": 24,
+			"name": "",
+			"type": 0
+		}
+	],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "bot_light_head",
+					"polys": 364,
+					"verts": 188
+				}
+			],
+			"name": "head"
+		}, 
+		{
+			"models": [
+				{
+					"name": "bot_light_body",
+					"polys": 1176,
+					"verts": 677
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "bot_light_leg",
+					"polys": 348,
+					"verts": 185
+				}
+			],
+			"name": "leg"
+		}
+	],
+	"controllers": [],
+	"events": [
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 5,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 8,
+			"options": "50",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 10,
+			"options": "50",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 12,
+			"options": "50",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
+			"event": 2001,
+			"frame": 1,
+			"options": "",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 49,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 53,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 57,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 61,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 65,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 69,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 73,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 77,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 77,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 77,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 77,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 81,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 81,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 81,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 81,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 85,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 85,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 85,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 85,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 89,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 89,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 89,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 89,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 0,
+			"options": "50",
+			"sequence": 93,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 2,
+			"options": "50",
+			"sequence": 93,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 4,
+			"options": "50",
+			"sequence": 93,
+			"type": 0
+		}, 
+		{
+			"event": 5001,
+			"frame": 6,
+			"options": "50",
+			"sequence": 93,
+			"type": 0
+		}
+	],
+	"id": 1414743113,
+	"md5": "e37784d7acde9534ece90991d226f04d",
+	"name": "bot_light.mdl",
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 21,
+			"name": "run"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "walk"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 41,
+			"name": "Flinch_walk"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 81,
+			"name": "crouch_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 29,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 29,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 29,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 29,
+			"name": "jump"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "head"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "gutshot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 48,
+			"name": "gutshot2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "left"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 48,
+			"name": "gutshot2"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 46,
+			"name": "back"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 98,
+			"name": "grenade_idle_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 98,
+			"name": "grenade_crouchidle_shoot"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_crouchidle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_crouchidle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_crouchidle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_crouchidle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_crouchidle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_idle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 61,
+			"name": "reloaded"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 16,
+			"name": "shoot_crouchidle"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}, 
+		{
+			"fps": 30.000000,
+			"frames": 81,
+			"name": "idle1"
+		}
+	],
+	"skeleton": [
+		{
+			"name": "Bip01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bip01 Pelvis",
+			"parent": 0
+		}, 
+		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L UpperArm",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Forearm",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Finger2",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger21",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone L Forearm_Sub",
+			"parent": 10
+		}, 
+		{
+			"name": "Bone L UpperArm_Sub",
+			"parent": 10
+		}, 
+		{
+			"name": "Bone_L Clavicle_Sub",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 R Clavicle",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R UpperArm",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Forearm",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger2",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger21",
+			"parent": 29
+		}, 
+		{
+			"name": "m14ebr_root",
+			"parent": 24
+		}, 
+		{
+			"name": "Bone R Forearm_Sub",
+			"parent": 23
+		}, 
+		{
+			"name": "Bone R UpperArm_Sub",
+			"parent": 23
+		}, 
+		{
+			"name": "Bone_R Clavicle_Sub",
+			"parent": 21
+		}, 
+		{
+			"name": "Bone Neck_Sub",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 L Calf",
+			"parent": 36
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 L Toe0",
+			"parent": 38
+		}, 
+		{
+			"name": "Bone L Hip_Sub",
+			"parent": 36
+		}, 
+		{
+			"name": "Bone L Calf_Sub",
+			"parent": 36
+		}, 
+		{
+			"name": "Bip01 R Thigh",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 R Calf",
+			"parent": 42
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 43
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 44
+		}, 
+		{
+			"name": "Bone R Hip_Sub",
+			"parent": 42
+		}, 
+		{
+			"name": "Bone R Calf_Sub",
+			"parent": 42
+		}, 
+		{
+			"name": "Bone_Skurt_front",
+			"parent": 1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 501,
+			"name": "head.bmp",
+			"width": 504
+		}, 
+		{
+			"flags": 3,
+			"height": 64,
+			"name": "bot_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 505,
+			"name": "Bot-upper.bmp",
+			"width": 500
+		}, 
+		{
+			"flags": 0,
+			"height": 254,
+			"name": "m-14 [p_model].BMP",
+			"width": 252
+		}, 
+		{
+			"flags": 0,
+			"height": 249,
+			"name": "Bot-lower.bmp",
+			"width": 252
+		}
+	],
+	"version": 10
+}
