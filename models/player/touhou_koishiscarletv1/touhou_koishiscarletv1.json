@@ -1,33 +1,182 @@
 {
-	"attachments": [
-		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
-			"name": "",
-			"type": 0
-		}
-	],
+	"attachments": [],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "mercenary",
-					"polys": 1838,
-					"verts": 1002
+					"name": "koishiscarletv1_1",
+					"polys": 1439,
+					"verts": 817
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body1_model0",
+					"polys": 1612,
+					"verts": 948
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body2_model0",
+					"polys": 2728,
+					"verts": 1475
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body3_model0",
+					"polys": 3376,
+					"verts": 1955
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body4_model0",
+					"polys": 1482,
+					"verts": 940
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_22",
+					"polys": 2648,
+					"verts": 1608
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body6_model0",
+					"polys": 2552,
+					"verts": 1423
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body7_model0",
+					"polys": 2624,
+					"verts": 1503
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body8_model0",
+					"polys": 3490,
+					"verts": 1770
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body9_model0",
+					"polys": 851,
+					"verts": 476
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body10_model0",
+					"polys": 1282,
+					"verts": 699
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body11_model0",
+					"polys": 1241,
+					"verts": 668
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body12_model0",
+					"polys": 992,
+					"verts": 524
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body13_model0",
+					"polys": 2176,
+					"verts": 1113
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body14_model0",
+					"polys": 2176,
+					"verts": 1112
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_8",
+					"polys": 2006,
+					"verts": 1118
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body16_model0",
+					"polys": 968,
+					"verts": 508
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "koishiscarletv1_body17_model0",
+					"polys": 228,
+					"verts": 142
 				}
 			],
 			"name": "body"
@@ -35,7 +184,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +192,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +200,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,7 +208,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -146,44 +295,44 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 125,
 			"type": 0
 		}, 
 		{
 			"event": 5021,
 			"frame": 0,
-			"options": "20",
+			"options": "42",
 			"sequence": 128,
 			"type": 0
 		}, 
@@ -301,8 +450,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "4f65b815ac4933b2c1031bb918d56c0e",
-	"name": "18stCrewleader.mdl",
+	"md5": "24cb1b1977406922430ac0723f46b225",
+	"name": "koishiscarletv1.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1363,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1256548,
+	"size": 4044336,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1227,84 +1421,100 @@
 			"parent": 0
 		}, 
 		{
-			"name": "Bip01 L Leg",
+			"name": "Bip01 Spine",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 L Leg1",
+			"name": "Bip01 Spine1",
 			"parent": 2
 		}, 
 		{
-			"name": "Bip01 L Foot",
+			"name": "Bip01 Spine2",
 			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 16
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 R Leg1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine",
+			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
-			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 R Leg1",
 			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Foot",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 L Leg1",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 24
 		}
 	],
 	"skins": 1,
@@ -1312,45 +1522,147 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "hands.bmp",
-			"width": 256
-		}, 
-		{
-			"flags": 0,
-			"height": 128,
-			"name": "shirt.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
 			"height": 512,
-			"name": "body1.bmp",
+			"name": "face.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "head.bmp",
+			"name": "hair2.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "hair4.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "maozi.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "hair9.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "hair10.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "eye.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "eyefield.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 64,
-			"name": "glass.bmp",
-			"width": 64
+			"height": 256,
+			"name": "hair8.bmp",
+			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 64,
-			"name": "frames.bmp",
-			"width": 64
+			"height": 256,
+			"name": "hair6.bmp",
+			"width": 256
 		}, 
 		{
-			"flags": 3,
-			"height": 64,
-			"name": "clipchrome.bmp",
-			"width": 64
+			"flags": 0,
+			"height": 256,
+			"name": "hair1.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "hair11.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "fashi.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "weiqun.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "hefu.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "hair3.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "body.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "xiuzi.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "shocks.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "kuku.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "meimao.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "shoes.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "hairb.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "map#1.bmp",
+			"width": 512
 		}
 	],
 	"version": 10

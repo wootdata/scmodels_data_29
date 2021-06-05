@@ -357,8 +357,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "af9f207d1d92fa6ec2a8fd7a83627b63",
-	"name": "akatsuki_yuriV2.mdl",
+	"md5": "0155e43bd4e22c4eb08404e7c462c8d3",
+	"name": "AB_Dorothy.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1292,7 +1292,7 @@
 			"name": "barnaclechew"
 		}
 	],
-	"size": 815192,
+	"size": 815892,
 	"skeleton": [
 		{
 			"name": "Bip01",

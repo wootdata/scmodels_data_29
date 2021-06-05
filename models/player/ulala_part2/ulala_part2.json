@@ -1,22 +1,22 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 20,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 17,
+			"bone": 10,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +25,9 @@
 		{
 			"models": [
 				{
-					"name": "mercenary",
-					"polys": 1838,
-					"verts": 1002
+					"name": "ulala_mesh_ulala",
+					"polys": 1209,
+					"verts": 686
 				}
 			],
 			"name": "body"
@@ -35,7 +35,7 @@
 	],
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -43,7 +43,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -51,7 +51,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -59,7 +59,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -146,30 +146,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "4f65b815ac4933b2c1031bb918d56c0e",
-	"name": "18stCrewleader.mdl",
+	"md5": "2c00bee2b2d117f757a7c1e5d48ca625",
+	"name": "ulala_part2.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -437,7 +437,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "ref_hold_wrench"
 		}, 
 		{
@@ -452,7 +452,7 @@
 		}, 
 		{
 			"fps": 13.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "crouch_hold_wrench"
 		}, 
 		{
@@ -477,7 +477,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "ref_hold_gren"
 		}, 
 		{
@@ -502,7 +502,7 @@
 		}, 
 		{
 			"fps": 15.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "crouch_hold_gren"
 		}, 
 		{
@@ -1212,11 +1212,56 @@
 		}, 
 		{
 			"fps": 10.000000,
-			"frames": 1,
+			"frames": 2,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1256548,
+	"size": 1159824,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1227,16 +1272,120 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 7
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 14
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 22
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 25
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 2
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 3
+			"parent": 29
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -1244,112 +1393,68 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 16
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 32
 		}
 	],
 	"skins": 1,
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 0,
-			"height": 128,
-			"name": "hands.bmp",
-			"width": 256
+			"flags": 2,
+			"height": 64,
+			"name": "p_color2.bmp",
+			"width": 64
 		}, 
 		{
 			"flags": 0,
 			"height": 128,
-			"name": "shirt.bmp",
+			"name": "p03b_hair.bmp",
 			"width": 128
 		}, 
 		{
-			"flags": 0,
-			"height": 512,
-			"name": "body1.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
+			"flags": 64,
 			"height": 256,
-			"name": "head.bmp",
-			"width": 512
+			"name": "p_nomal_mix.bmp",
+			"width": 256
 		}, 
 		{
-			"flags": 0,
+			"flags": 2,
 			"height": 64,
-			"name": "glass.bmp",
+			"name": "p03_ref1.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 64,
+			"height": 256,
+			"name": "p_face.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 2,
+			"height": 64,
+			"name": "p_color1.bmp",
 			"width": 64
 		}, 
 		{
 			"flags": 0,
 			"height": 64,
-			"name": "frames.bmp",
+			"name": "eye.bmp",
 			"width": 64
 		}, 
 		{
-			"flags": 3,
+			"flags": 2,
 			"height": 64,
-			"name": "clipchrome.bmp",
+			"name": "p_ref_bl.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 2,
+			"height": 64,
+			"name": "p_map_bl.bmp",
 			"width": 64
 		}
 	],

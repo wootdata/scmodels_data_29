@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 21,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 17,
+			"bone": 27,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "mercenary",
-					"polys": 1838,
-					"verts": 1002
+					"name": "head1",
+					"polys": 645,
+					"verts": 353
 				}
 			],
 			"name": "body"
@@ -146,30 +141,30 @@
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 65,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "15",
+			"options": "muzzle_SG.txt",
 			"sequence": 69,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 79,
 			"type": 0
 		}, 
 		{
-			"event": 5011,
+			"event": 5005,
 			"frame": 0,
-			"options": "20",
+			"options": "muzzle_MP5.txt",
 			"sequence": 83,
 			"type": 0
 		}, 
@@ -301,8 +296,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "4f65b815ac4933b2c1031bb918d56c0e",
-	"name": "18stCrewleader.mdl",
+	"md5": "9b7b55d07ac617be7463d6fb27d8c4a2",
+	"name": "recon_enemy.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1214,9 +1209,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 1256548,
+	"size": 1001128,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1291,20 +1331,68 @@
 			"parent": 16
 		}, 
 		{
+			"name": "Bip01 L Finger0",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 19
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 22
+		}, 
+		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 18
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 19
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 20
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger0",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 28
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 29
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 31
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 32
 		}
 	],
 	"skins": 1,
@@ -1312,44 +1400,32 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "hands.bmp",
-			"width": 256
+			"height": 254,
+			"name": "dm_base.bmp",
+			"width": 244
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "shirt.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 0,
-			"height": 512,
-			"name": "body1.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "head.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "glass.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 0,
-			"height": 64,
-			"name": "frames.bmp",
-			"width": 64
+			"height": 120,
+			"name": "dm_face.bmp",
+			"width": 120
 		}, 
 		{
 			"flags": 3,
 			"height": 64,
-			"name": "clipchrome.bmp",
+			"name": "goggle_chrome.bmp",
+			"width": 64
+		}, 
+		{
+			"flags": 0,
+			"height": 16,
+			"name": "shotgunheadgoggletrim.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 64,
+			"name": "shotgunheadside.bmp",
 			"width": 64
 		}
 	],
