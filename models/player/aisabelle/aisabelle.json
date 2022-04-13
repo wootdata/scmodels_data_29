@@ -14,18 +14,23 @@
 			"bone": 21,
 			"name": "",
 			"type": 0
+		}, 
+		{
+			"bone": 17,
+			"name": "",
+			"type": 0
 		}
 	],
 	"bodies": [
 		{
 			"models": [
 				{
-					"name": "lqc",
-					"polys": 168,
-					"verts": 112
+					"name": "IsabelleA",
+					"polys": 1644,
+					"verts": 846
 				}
 			],
-			"name": "lqc"
+			"name": "body"
 		}
 	],
 	"controllers": [
@@ -66,14 +71,28 @@
 		{
 			"event": 5004,
 			"frame": 5,
-			"options": "player/playersounds/mario_swim.wav",
-			"sequence": 10,
+			"options": "player/playersounds/Isabelle/ISA5.wav",
+			"sequence": 8,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 7,
+			"options": "player/playersounds/Isabelle/ISA5.wav",
+			"sequence": 9,
 			"type": 0
 		}, 
 		{
 			"event": 2001,
 			"frame": 9,
 			"options": "",
+			"sequence": 12,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA4.wav",
 			"sequence": 12,
 			"type": 0
 		}, 
@@ -85,9 +104,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA4.wav",
+			"sequence": 13,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 15,
 			"options": "",
+			"sequence": 14,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA4.wav",
 			"sequence": 14,
 			"type": 0
 		}, 
@@ -99,9 +132,23 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA4.wav",
+			"sequence": 15,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
+			"sequence": 16,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA4.wav",
 			"sequence": 16,
 			"type": 0
 		}, 
@@ -113,10 +160,52 @@
 			"type": 0
 		}, 
 		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA4.wav",
+			"sequence": 17,
+			"type": 0
+		}, 
+		{
 			"event": 2001,
 			"frame": 22,
 			"options": "",
 			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA4.wav",
+			"sequence": 18,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA3.wav",
+			"sequence": 41,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA3.wav",
+			"sequence": 42,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA3.wav",
+			"sequence": 43,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA3.wav",
+			"sequence": 44,
 			"type": 0
 		}, 
 		{
@@ -300,11 +389,46 @@
 			"options": "muzzle_spaw.txt",
 			"sequence": 175,
 			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA1.wav",
+			"sequence": 186,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA2.wav",
+			"sequence": 187,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA1.wav",
+			"sequence": 188,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA2.wav",
+			"sequence": 189,
+			"type": 0
+		}, 
+		{
+			"event": 5004,
+			"frame": 1,
+			"options": "player/playersounds/Isabelle/ISA1.wav",
+			"sequence": 190,
+			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "ec0af9c2644e5fa28a13fd07c1aa6fa8",
-	"name": "lqc.mdl",
+	"md5": "1a0a8c5f4a4d91c9fed8f1868ad70e2a",
+	"name": "H:\\IsabelleA\\IsabelleA.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -1216,9 +1340,54 @@
 			"fps": 10.000000,
 			"frames": 1,
 			"name": "ShannonCaldwell_v1.2"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 9,
+			"name": "barnaclehit"
+		}, 
+		{
+			"fps": 25.000000,
+			"frames": 81,
+			"name": "barnaclepull"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 36,
+			"name": "barnaclecrunch"
+		}, 
+		{
+			"fps": 15.000000,
+			"frames": 36,
+			"name": "barnaclechew"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 21,
+			"name": "use_console_loop"
+		}, 
+		{
+			"fps": 20.000000,
+			"frames": 201,
+			"name": "use_console_loop2"
+		}, 
+		{
+			"fps": 18.000000,
+			"frames": 66,
+			"name": "action_retina"
+		}, 
+		{
+			"fps": 12.000000,
+			"frames": 81,
+			"name": "action_studycart"
+		}, 
+		{
+			"fps": 10.000000,
+			"frames": 22,
+			"name": "action_wave"
 		}
 	],
-	"size": 892136,
+	"size": 899240,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -1313,52 +1482,34 @@
 	"t_model": false,
 	"textures": [
 		{
-			"flags": 64,
-			"height": 256,
-			"name": "lqcbody.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 64,
-			"height": 128,
-			"name": "lqctou.bmp",
-			"width": 128
-		}, 
-		{
-			"flags": 64,
-			"height": 96,
-			"name": "lqcarm.bmp",
-			"width": 64
-		}, 
-		{
-			"flags": 64,
+			"flags": 0,
 			"height": 64,
-			"name": "lqcarm2.bmp",
+			"name": "e.0.bmp",
 			"width": 128
 		}, 
 		{
-			"flags": 64,
-			"height": 96,
-			"name": "lqchand.bmp",
-			"width": 96
+			"flags": 0,
+			"height": 19,
+			"name": "0.bmp",
+			"width": 20
 		}, 
 		{
-			"flags": 64,
-			"height": 128,
-			"name": "lqcleg.bmp",
-			"width": 96
+			"flags": 0,
+			"height": 64,
+			"name": "m.0.bmp",
+			"width": 128
 		}, 
 		{
-			"flags": 64,
-			"height": 128,
-			"name": "lqcleg2.bmp",
-			"width": 96
+			"flags": 0,
+			"height": 256,
+			"name": "b0.bmp",
+			"width": 128
 		}, 
 		{
-			"flags": 64,
-			"height": 96,
-			"name": "lqcfoot.bmp",
-			"width": 96
+			"flags": 0,
+			"height": 256,
+			"name": "cloth.bmp",
+			"width": 64
 		}
 	],
 	"version": 10
