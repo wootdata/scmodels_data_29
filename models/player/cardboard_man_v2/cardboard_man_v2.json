@@ -14,6 +14,11 @@
 			"bone": 21,
 			"name": "",
 			"type": 0
+		}, 
+		{
+			"bone": 17,
+			"name": "",
+			"type": 0
 		}
 	],
 	"bodies": [
@@ -296,8 +301,8 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "adc5b066f3b50a533444e95f92a88a49",
-	"name": "cardboard_man.mdl",
+	"md5": "b50d5ef9a928d917e658fce938745264",
+	"name": "gordon.mdl",
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -318,12 +323,12 @@
 		{
 			"fps": 40.000000,
 			"frames": 25,
-			"name": "run"
+			"name": "run2"
 		}, 
 		{
 			"fps": 20.000000,
 			"frames": 17,
-			"name": "walk"
+			"name": "walk2handed"
 		}, 
 		{
 			"fps": 20.000000,
@@ -1242,7 +1247,7 @@
 		}, 
 		{
 			"fps": 18.000000,
-			"frames": 71,
+			"frames": 66,
 			"name": "action_retina"
 		}, 
 		{
@@ -1256,7 +1261,7 @@
 			"name": "action_wave"
 		}
 	],
-	"size": 876168,
+	"size": 872464,
 	"skeleton": [
 		{
 			"name": "Bip01",
