@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 11,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "28c9382a1c4907bab84a0238b3715bad",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Seal.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -261,7 +262,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b25c24af16a1d430fa4511374c4a639c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Mis documentos\\Compu Leandro\\hacking\\grunts\\Hgrunt.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

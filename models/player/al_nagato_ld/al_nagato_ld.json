@@ -153,6 +153,7 @@
 			"name": "14"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -818,7 +819,11 @@
 	],
 	"id": 1414743113,
 	"md5": "74a07689bdedfd682b9969cf82100743",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "AL_Ayanami.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

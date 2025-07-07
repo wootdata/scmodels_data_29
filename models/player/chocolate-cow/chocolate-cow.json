@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7061930c0af4d57b201a42ab75d20c24",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "D:\\Models\\Madcow\\MadCow.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

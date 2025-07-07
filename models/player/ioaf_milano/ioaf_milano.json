@@ -53,6 +53,7 @@
 			"name": "STeam"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "278840eeb8912eaca2cf814b9a58e00b",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "ioaf_milano.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

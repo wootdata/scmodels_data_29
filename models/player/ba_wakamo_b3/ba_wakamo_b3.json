@@ -183,6 +183,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -824,7 +825,11 @@
 	],
 	"id": 1414743113,
 	"md5": "346730c4267d2e3b2274d5380dc1f77e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Wakamo_B.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

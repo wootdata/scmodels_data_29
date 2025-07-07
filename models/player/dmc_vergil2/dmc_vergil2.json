@@ -93,6 +93,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -517,7 +518,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4d972cb987f4c3c2328bde6874e405cd",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dmc4_nero.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

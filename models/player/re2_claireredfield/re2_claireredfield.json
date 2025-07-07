@@ -53,6 +53,7 @@
 			"name": "flag"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "045aaa2eb69dbac50249437d3697f61c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "RE2_ClaireRedfield.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

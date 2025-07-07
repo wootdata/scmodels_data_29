@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -422,7 +423,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f1286eea3052ce1ddac90b83307d1835",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sven Co-op\\svencoo\\",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

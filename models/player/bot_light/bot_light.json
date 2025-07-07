@@ -43,6 +43,7 @@
 			"name": "leg"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1483820376,
 	"events": [
@@ -490,7 +491,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e37784d7acde9534ece90991d226f04d",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bot_light.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

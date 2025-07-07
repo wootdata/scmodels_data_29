@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -344,7 +345,11 @@
 	],
 	"id": 1414743113,
 	"md5": "45d0ef79400803504c22c27d3eda2b9a",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dod_axis-sniper.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

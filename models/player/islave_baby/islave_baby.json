@@ -28,6 +28,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "21588ed5a95216cda89c2d80285d37cb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "islave_baby.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

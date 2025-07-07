@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 14,
@@ -177,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "126433f66d8401873b48b5df5aeb8d66",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\models\\pikesoldier\\sarge.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -43,6 +43,7 @@
 			"name": "backpack"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3f9153f9813ff09eca9e0f1e2696f849",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hell.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

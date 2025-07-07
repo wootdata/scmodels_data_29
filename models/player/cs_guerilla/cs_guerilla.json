@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "455640dd83c30081d53ec9387d8478fc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "../compiled/cs_guerilla.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

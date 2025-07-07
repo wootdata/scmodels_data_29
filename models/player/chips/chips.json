@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -172,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0d1fa50de0552465d378f213ae70dbb6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Yo Den\\modeling\\putin\\putin.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

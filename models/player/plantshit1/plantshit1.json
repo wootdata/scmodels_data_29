@@ -12,12 +12,17 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1497364808,
 	"events": [],
 	"id": 1414743113,
 	"md5": "e8599cc7099457393030f633edc6b933",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "lshrub.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

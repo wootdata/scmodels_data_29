@@ -278,6 +278,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -619,7 +620,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7490e7ee19ec6a1697d7615f2db96077",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "KMD_kunoichi_Kanna.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

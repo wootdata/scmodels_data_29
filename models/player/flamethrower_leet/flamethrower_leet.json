@@ -28,6 +28,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -298,7 +299,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e30e3376e59953a78e88fb671bb4f1e1",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Flamethrower_Leet.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

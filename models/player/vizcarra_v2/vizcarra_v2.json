@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -316,7 +317,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6686eff96cef6400452add28d07641b6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "vizcarra.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

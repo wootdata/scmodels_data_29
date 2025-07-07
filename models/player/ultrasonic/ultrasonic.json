@@ -33,6 +33,7 @@
 			"name": "Sonic_the_Hegdehog"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 13,
@@ -461,7 +462,11 @@
 	],
 	"id": 1414743113,
 	"md5": "015cb2f9775b453722910933f681f822",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Models/SuperSonic.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

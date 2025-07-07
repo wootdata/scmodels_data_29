@@ -43,6 +43,7 @@
 			"name": "marine_Glow"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -320,7 +321,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bcb39b02477416b0e542725efdbd1022",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "soldier.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

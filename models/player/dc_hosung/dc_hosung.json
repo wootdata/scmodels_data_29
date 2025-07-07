@@ -53,6 +53,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -323,7 +324,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2fe7fc8a928fff78acb26a7fd31e87e6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

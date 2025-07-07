@@ -343,6 +343,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 4,
@@ -611,7 +612,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c0f02d7dd5ad86462608e14ae2e0d816",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "CM3D2_CatGirl.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

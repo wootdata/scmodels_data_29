@@ -143,6 +143,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -784,7 +785,11 @@
 	],
 	"id": 1414743113,
 	"md5": "43c04044ce9ed2d74816fccc52c919a0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "BA_Wakamo_Bikini.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

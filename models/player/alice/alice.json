@@ -48,6 +48,7 @@
 			"name": "dress"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 10,
@@ -438,7 +439,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2365e4c53bac8b2de912791d3b37b7eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Alice.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

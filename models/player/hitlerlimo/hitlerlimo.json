@@ -22,12 +22,17 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1353089619,
 	"events": [],
 	"id": 1414743113,
 	"md5": "d77a8c18209e26760d4d8ff63d153c57",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "car_citroen.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

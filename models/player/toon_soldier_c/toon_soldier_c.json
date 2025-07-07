@@ -43,6 +43,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -313,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f15f2e366dfed57b4c9c9598fd2edc57",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "toon_soldier_c.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

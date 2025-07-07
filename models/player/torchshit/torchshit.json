@@ -23,6 +23,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 20,
@@ -60,7 +61,11 @@
 	],
 	"id": 1414743113,
 	"md5": "08059f252f3b8d2c2741fc0781f7ce39",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "c:\\sierra\\half-life\\gearbox\\models\\intro_torch.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

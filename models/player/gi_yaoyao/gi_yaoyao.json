@@ -253,6 +253,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -860,7 +861,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9e93eb1a48f552bbd24aec345da767e2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GI_Yaoyao.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

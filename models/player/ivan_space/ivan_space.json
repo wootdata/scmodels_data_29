@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -321,7 +322,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f9866cb98b8ae946f2dd2a0d4cb5dae0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Ivan_Space.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

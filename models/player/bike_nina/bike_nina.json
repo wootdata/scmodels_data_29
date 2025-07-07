@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
 	"date": 1093004334,
 	"events": [
@@ -123,7 +124,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6ce69977e00c6757d716552bf96e3e03",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bike_nina.mdl",
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

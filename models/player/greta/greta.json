@@ -133,6 +133,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -403,7 +404,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f47758ad2757443e5bbba04b438a92de",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "greta.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

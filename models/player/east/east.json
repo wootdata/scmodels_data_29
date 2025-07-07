@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -247,7 +248,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7db6fb3eecf16025ccce16c0c89a4f6e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tfc/models/player/spy/spy.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
