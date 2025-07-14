@@ -464,6 +464,7 @@
 	"md5": "015cb2f9775b453722910933f681f822",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "Models/SuperSonic.mdl",
 	"preview": true,
 	"readme": false,

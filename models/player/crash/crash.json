@@ -306,6 +306,7 @@
 	"md5": "fd678cdadec3ad605637462353bddfad",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "crash.mdl",
 	"preview": true,
 	"readme": false,

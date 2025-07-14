@@ -274,6 +274,7 @@
 	"md5": "8490579a6c517d245724d00f578478e1",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "grunt.mdl",
 	"preview": true,
 	"readme": false,

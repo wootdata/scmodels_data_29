@@ -149,6 +149,7 @@
 	"md5": "5d6fdbf44dc265dea8f238994a2a9905",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "dm_slave.mdl",
 	"preview": false,
 	"readme": false,

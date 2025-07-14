@@ -264,6 +264,7 @@
 	"md5": "b2e99aeacfe02a73bbefb109d66fc429",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "zombie_player.mdl",
 	"preview": true,
 	"readme": false,

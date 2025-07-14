@@ -301,6 +301,7 @@
 	"md5": "455640dd83c30081d53ec9387d8478fc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 6,
 	"name": "../compiled/cs_guerilla.mdl",
 	"preview": true,
 	"readme": false,

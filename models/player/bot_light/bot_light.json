@@ -493,6 +493,7 @@
 	"md5": "e37784d7acde9534ece90991d226f04d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "bot_light.mdl",
 	"preview": false,
 	"readme": false,
