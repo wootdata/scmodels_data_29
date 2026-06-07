@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 945190270,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -250,6 +250,7 @@
 	"md5": "7db6fb3eecf16025ccce16c0c89a4f6e",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/spy/spy.mdl",
 	"preview": true,
 	"readme": false,

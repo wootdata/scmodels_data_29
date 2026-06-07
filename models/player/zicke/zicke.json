@@ -68,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1190310862,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -180,6 +180,7 @@
 	"md5": "ec43b02ea63a9b0bde26a97befcfef76",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "D:\\attente\\player\\predatrice\\predatrice.mdl",
 	"preview": true,
 	"readme": false,

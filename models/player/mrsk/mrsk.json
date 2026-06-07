@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1589092278,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "7b3ac088f96daa7bb95b76458d1f5168",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "MRSK.mdl",
 	"preview": true,
 	"readme": false,

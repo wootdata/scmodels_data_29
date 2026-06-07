@@ -12,12 +12,18 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [],
-	"date": 914146864,
+	"date": 1780811535,
 	"events": [],
 	"id": 1414743113,
 	"md5": "4b5fd5cff3dfbd567bd66035cba9610c",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "valve/models/grenade.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

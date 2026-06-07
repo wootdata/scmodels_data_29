@@ -63,7 +63,7 @@
 			"type": 32
 		}
 	],
-	"date": 1702915772,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 5004,
@@ -322,6 +322,7 @@
 	"md5": "a920a76d32aa38bd4859480ba8f769f4",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "tails.mdl",
 	"preview": true,
 	"readme": false,

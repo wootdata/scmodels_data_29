@@ -71,7 +71,7 @@
 			"type": 32
 		}
 	],
-	"date": 1185447466,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -183,6 +183,7 @@
 	"md5": "ff75a7e45d5c280aa728fde33238fdea",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "CSTerror.mdl",
 	"preview": true,
 	"readme": false,

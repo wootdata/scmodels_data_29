@@ -105,7 +105,7 @@
 			"type": 32
 		}
 	],
-	"date": 1695744049,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 5004,
@@ -693,6 +693,7 @@
 	"md5": "2194af375b38f74c8c6778a4aa80797a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 5,
 	"name": "HDN_Compa.mdl",
 	"preview": true,
 	"readme": false,

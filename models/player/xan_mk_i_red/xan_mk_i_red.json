@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1435780880,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 2001,
@@ -175,6 +175,7 @@
 	"md5": "e441a13a8059d9f56a2e3b430ce4c0aa",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "Xan_mk_I_red.mdl",
 	"preview": false,
 	"readme": false,

@@ -96,7 +96,7 @@
 			"type": 1
 		}
 	],
-	"date": 1695756238,
+	"date": 1780811535,
 	"events": [
 		{
 			"event": 5004,
@@ -327,6 +327,7 @@
 	"md5": "ee2d782a24896142b1677092fea2cede",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 7,
 	"name": "UGG_GooseC.mdl",
 	"preview": true,
 	"readme": false,
